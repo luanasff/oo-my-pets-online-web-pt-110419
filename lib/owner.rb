@@ -35,7 +35,9 @@ class Owner
     end 
     
     
-    
+      #ASSOCIATIONS 
+      
+      
      def buy_cat(name)
        Cat.new(name,self) 
      end 
