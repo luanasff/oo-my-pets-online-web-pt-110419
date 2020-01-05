@@ -12,7 +12,7 @@ class Owner
       @species = "human"
       @@all << self 
       @cats = []
-      save
+      
       
      end 
     
