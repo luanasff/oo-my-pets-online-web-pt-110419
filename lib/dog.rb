@@ -5,7 +5,13 @@
    attr_reader :name 
    
       @@all = [] 
-
+  
+  
+  
+    
+    #NTANCE METHODS
+    
+    
     def initialize(name, owner)
       @name = name 
       @mood = "nervous" 
