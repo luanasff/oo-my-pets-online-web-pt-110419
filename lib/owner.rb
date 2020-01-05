@@ -1,11 +1,14 @@
 class Owner
  
 
- 
+    
     attr_reader   :name, :species
      
      
     @@all = []
+ 
+ 
+  # INSTANCE METHODS #name , #species , #say_species 
  
     def initialize(name)
       @name = name
