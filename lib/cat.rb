@@ -22,7 +22,7 @@ class Cat
   end 
 
 
-
+   #CLASS METHODS  ( KNOWS ALL THE CATS)
   def self.all 
     @@all
   end  
