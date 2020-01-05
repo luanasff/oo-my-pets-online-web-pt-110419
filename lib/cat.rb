@@ -17,9 +17,7 @@ class Cat
 
 
 
-  def save
-    @@all << self 
-  end 
+  
 
 
    #CLASS METHODS  ( KNOWS ALL THE CATS)
