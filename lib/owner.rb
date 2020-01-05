@@ -78,7 +78,7 @@ class Owner
         Dog.all.each {|dog| dog.mood = "nervous" && dog.owner = nil}
 
        
-      
+     end 
       
     end 
     
