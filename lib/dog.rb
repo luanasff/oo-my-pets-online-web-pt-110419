@@ -13,12 +13,12 @@
       save 
     end
 
-  def save 
-    @@dogs << self 
-  end 
+    def save 
+      @@dogs << self 
+    end 
 
-  def self.all 
-    @@dogs 
-  end 
+    def self.all 
+      @@dogs 
+    end 
 
 end
