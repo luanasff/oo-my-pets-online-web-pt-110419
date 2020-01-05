@@ -18,7 +18,7 @@
     end 
 
     def self.all 
-      @@dogs 
+      @@all
     end 
 
 end
