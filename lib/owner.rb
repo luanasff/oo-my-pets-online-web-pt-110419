@@ -73,7 +73,7 @@ class Owner
       
         
 
-        Dog.each {|dog| dog.mood = "nervous" }
+        Dog.all.each {|dog| dog.mood = "nervous" }
 
        
       
