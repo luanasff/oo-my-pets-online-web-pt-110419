@@ -25,10 +25,13 @@ class Owner
         @@all.count
      end 
     
+      
+    def self.reset_all
+       @@all.reset_all
+    end 
     
     
     
-  
      def buy_cat(name)
        Cat.new(name,self) 
      end 
