@@ -22,6 +22,9 @@ class Owner
      end 
      
     
+     # CLASS METHODS 
+    
+    
      def self.all 
        @@all 
      end 
