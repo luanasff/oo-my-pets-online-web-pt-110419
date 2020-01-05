@@ -35,7 +35,7 @@ class Owner
     end 
     
     
-      #ASSOCIATIONS 
+      #ASSOCIATIONS !!!!!!!!!!!!!!
       
       
      def buy_cat(name)
