@@ -27,7 +27,7 @@ class Owner
     
     
      def buy_cat(name)
-    
+       dog.cat = self 
      end 
     
     
