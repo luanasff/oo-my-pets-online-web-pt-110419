@@ -15,6 +15,8 @@ class Owner
     
     
     
+    def self.all 
+    
      def buy_cat(name)
     
      end 
