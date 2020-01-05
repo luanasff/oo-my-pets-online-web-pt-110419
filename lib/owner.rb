@@ -22,7 +22,7 @@ class Owner
      end 
      
     
-     # CLASS METHODS 
+     # CLASS METHODS  :  .all , .count  , .reset_all (.clear)
     
     
      def self.all 
