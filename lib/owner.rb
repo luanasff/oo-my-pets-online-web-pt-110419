@@ -11,6 +11,7 @@ class Owner
       @name = name
       @species = "human"
       @@all << self 
+      @cats = []
       save
       
      end 
