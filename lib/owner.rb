@@ -8,7 +8,7 @@ class Owner
     @@all = []
  
  
-  # INSTANCE METHODS #name , #species , #say_species 
+  # INSTANCE METHODS : #name , #species , #say_species 
  
     def initialize(name)
       @name = name
