@@ -32,6 +32,7 @@ class Owner
     
     
      def buy_dog
+        dog.owner = self 
        
      end 
     
