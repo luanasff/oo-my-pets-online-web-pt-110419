@@ -19,6 +19,10 @@
       @@all << self 
     end
 
+    
+    
+    #CLASS METHODS  ( Knows all the dogs)
+
     def self.all 
       @@all
     end 
