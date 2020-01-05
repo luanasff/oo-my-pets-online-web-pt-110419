@@ -5,13 +5,13 @@ class Cat
 
    @@all = []
    
-   # INSTANCE METHODS  :  name & owner 
+   # INSTANCE METHODS  
    
    
-  def initialize(name, owner)
+  def initialize(name, owner)     #INITIALIZES W/ NAME AND AN OWNER 
     @name = name 
-    @owner = owner 
-    @mood = "nervous"
+    @owner = owner         
+    @mood = "nervous"             #INITIALIZES W/ A NERVOUS MOOD 
     @@all << self 
   end 
 
