@@ -14,7 +14,7 @@
     end
 
     def save 
-      @@dogs << self 
+      @@all << self 
     end 
 
     def self.all 
