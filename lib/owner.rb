@@ -75,7 +75,7 @@ class Owner
       
         
 
-        Dog.all.each {|dog| dog.mood = "nervous" | dog.owner = "nil"}
+        Dog.all.each {|dog| dog.mood = "nervous" && dog.owner = "nil"}
 
        
       
