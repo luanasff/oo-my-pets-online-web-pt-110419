@@ -20,6 +20,12 @@ class Owner
      end 
     
     
+    
+     def self.count
+        @@self 
+     end 
+    
+    
      def buy_cat(name)
     
      end 
